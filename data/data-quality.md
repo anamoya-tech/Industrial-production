@@ -9,3 +9,5 @@ Estos nulos se deben a:
 - Variables dependientes (ej: motivo_parada solo aplica si hubo parada)
 
 Se priorizó la **calidad y coherencia del dato** frente a la completitud, manteniendo únicamente información fiable para el análisis.
+
+**El archivo CLEAN es .csv UTF-8
